@@ -1,1 +1,2 @@
 # TernaryFunctionMarchingCube
+这是一个很Naive的用marching cube算法对二次三元函数进行三维网格重建的代码工程
